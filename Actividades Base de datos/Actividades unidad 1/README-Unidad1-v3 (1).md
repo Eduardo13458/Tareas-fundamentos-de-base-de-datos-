@@ -10,8 +10,8 @@ Haz clic en los enlaces a continuación para acceder al `README.md` explicativo 
 
 | Actividad | Tema Principal | README Explicativo | Carpeta Directa |
 | :--- | :--- | :--- | :--- |
-| **Actividad 1.1** | Fundamentos, Objetivos y Modelos de Bases de Datos | 📄 [Ver README Actividad 1.1](./Actividad%201.1/README.md) | 📁 [Ver Carpeta 1.1](./Actividad%201.1/) |
-| **Actividad 1.2** | Clasificación y Arquitecturas (ANSI/SPARC y SGBD) | 📄 [Ver README Actividad 1.2](./Actividad%201.2/README.md) | 📁 [Ver Carpeta 1.2](./Actividad%201.2/) |
+| **Actividad 1.1** | Fundamentos, Objetivos y Modelos de Bases de Datos | 📄 [Ver README Actividad 1.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.1/README-Actividad-1.1-v2.md) | 📁 [Ver Carpeta 1.1](./Actividad%201.1/) |
+| **Actividad 1.2** | Clasificación y Arquitecturas (ANSI/SPARC y SGBD) | 📄 [Ver README Actividad 1.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.2/README-Actividad-1.2-v2.md) | 📁 [Ver Carpeta 1.2](./Actividad%201.2/) |
 
 ---
 
