@@ -10,7 +10,7 @@ Cada actividad cuenta con su propio archivo `README.md` independiente que explic
 
 | Actividad | Tema / Contenido Principal | Enlace al README Explicativo | Enlace Directo a Carpeta |
 | :--- | :--- | :--- | :--- |
-| **Actividad 1.1** | Fundamentos, objetivos, modelos de datos y arquitectura de 3 niveles | 📘 [Ver README Actividad 1.1]([https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.1) | 📂 [Carpeta Actividad 1.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.1/README-Actividad-1.1-v2.md) |
+| **Actividad 1.1** | Fundamentos, objetivos, modelos de datos y arquitectura de 3 niveles | 📘 [Ver README Actividad 1.1]([https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.1) | 📂 [Carpeta Actividad 1.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.1) |
 | **Actividad 1.2** | Clasificación de SGBD, Arquitectura ANSI/SPARC y Motor interno | 📘 [Ver README Actividad 1.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.2/README-Actividad-1.2-v2.md) | 📂 [Carpeta Actividad 1.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Actividades%20unidad%201/Actividad%201.2) |
 
 ---
