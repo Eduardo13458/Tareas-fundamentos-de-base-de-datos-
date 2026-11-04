@@ -8,7 +8,7 @@ Bienvenido al módulo de la **Unidad 3** del repositorio de **Fundamentos de Bas
 
 | Tarea | Tema Principal | README Explicativo | Carpeta Directa |
 | :--- | :--- | :--- | :--- |
-| **Tarea 3.1** | Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad | 📄 [Ver README Tarea 3.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Tareas%20Base%20de%20datos%20unidad%203/Tarea%203.1%20Transformación%20de%20Modelo%20E-R%20a%20Esquema%20Relacional%20y%20Reglas%20de%20Integridad/README-Unidad3.md) | 📁 [Ver Carpeta 3.1](./Tarea%203.1%20Transformaci%C3%B3n%20de%20Modelo%20E-R%20a%20Esquema%20Relacional%20y%20Reglas%20de%20Integridad/) |
+| **Tarea 3.1** | Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad | 📄 [Ver README Tarea 3.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Tareas%20Base%20de%20datos%20unidad%203/Tarea%203.1%20Transformación%20de%20Modelo%20E-R%20a%20Esquema%20Relacional%20y%20Reglas%20de%20Integridad/README-Tarea-3.1.md) | 📁 [Ver Carpeta 3.1](./Tarea%203.1%20Transformaci%C3%B3n%20de%20Modelo%20E-R%20a%20Esquema%20Relacional%20y%20Reglas%20de%20Integridad/) |
 | **Tarea 3.2** | Generación del Esquema Físico en SGBD y Script LD (DDL/DML) | 📄 [Ver README Tarea 3.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Tareas%20Base%20de%20datos%20unidad%203/Tarea%203.2%20Generación%20del%20esquema%20físico%20en%20SGBD%20y%20script%20LD/README-Tarea-3.2.md) | 📁 [Ver Carpeta 3.2](./Tarea%203.2%20Generaci%C3%B3n%20del%20esquema%20f%C3%ADsico%20en%20SGBD%20y%20script%20LD/) |
 
 ---
