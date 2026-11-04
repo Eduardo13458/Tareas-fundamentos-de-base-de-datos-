@@ -10,8 +10,8 @@ Haz clic en los enlaces a continuación para acceder al `README.md` explicativo 
 
 | Tarea | Tema Principal | README Explicativo | Carpeta Directa |
 | :--- | :--- | :--- | :--- |
-| **Tarea 2.1** | Modelado Conceptual E-R y E-R Extendido de un Caso Práctico | 📄 [Ver README Tarea 2.1](./Tarea%202.1%20Modelado%20conceptual%20E-R%20y%20E-R%20Extendido%20de%20un%20caso/README.md) | 📁 [Ver Carpeta 2.1](./Tarea%202.1%20Modelado%20conceptual%20E-R%20y%20E-R%20Extendido%20de%20un%20caso/) |
-| **Tarea 2.2** | Transición de Diagrama E-R a Notación UML | 📄 [Ver README Tarea 2.2](./Tarea%202.2%20Transici%C3%B3n%20de%20diagrama%20ER%20a%20notaci%C3%B3n%20UML/README.md) | 📁 [Ver Carpeta 2.2](./Tarea%202.2%20Transici%C3%B3n%20de%20diagrama%20ER%20a%20notaci%C3%B3n%20UML/) |
+| **Tarea 2.1** | Modelado Conceptual E-R y E-R Extendido de un Caso Práctico | 📄 [Ver README Tarea 2.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Tarea%20base%20de%20datos%20unidad%202/Tarea%202.1%20Modelado%20conceptual%20E-R%20y%20E-R%20Extendido%20de%20un%20caso/README-Tarea-2.1.md) | 📁 [Ver Carpeta 2.1](./Tarea%202.1%20Modelado%20conceptual%20E-R%20y%20E-R%20Extendido%20de%20un%20caso/) |
+| **Tarea 2.2** | Transición de Diagrama E-R a Notación UML | 📄 [Ver README Tarea 2.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Tarea%20base%20de%20datos%20unidad%202/Tarea%202.2%20Transición%20de%20diagrama%20ER%20a%20notación%20UML/README-Tarea-2.2.md) | 📁 [Ver Carpeta 2.2](./Tarea%202.2%20Transici%C3%B3n%20de%20diagrama%20ER%20a%20notaci%C3%B3n%20UML/) |
 
 ---
 
