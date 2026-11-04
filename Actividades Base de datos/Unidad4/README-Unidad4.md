@@ -8,8 +8,8 @@ Bienvenido al módulo de la **Unidad 4** del repositorio de **Fundamentos de Bas
 
 | Tarea | Tema Principal | README Explicativo | Carpeta Directa |
 | :--- | :--- | :--- | :--- |
-| **Tarea 4.1** | Fundamentos de Dependencias y Mapa Conceptual de Formas Normales | 📄 [Ver README Tarea 4.1](./Tarea%204.1%20Fundamentos%20de%20dependencias%20y%20mapa%20conceptual%20de%20formas%20normales/README.md) | 📁 [Ver Carpeta 4.1](./Tarea%204.1%20Fundamentos%20de%20dependencias%20y%20mapa%20conceptual%20de%20formas%20normales/) |
-| **Tarea 4.2** | Proceso Paso a Paso de Normalización del Proyecto Aplicado | 📄 [Ver README Tarea 4.2](./Tarea%204.2%20Proceso%20paso%20a%20paso%20de%20normalizaci%C3%B3n%20del%20proyecto%20aplicado/README.md) | 📁 [Ver Carpeta 4.2](./Tarea%204.2%20Proceso%20paso%20a%20paso%20de%20normalizaci%C3%B3n%20del%20proyecto%20aplicado/) |
+| **Tarea 4.1** | Fundamentos de Dependencias y Mapa Conceptual de Formas Normales | 📄 [Ver README Tarea 4.1](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad4/Tarea%204.1%20Fundamentos%20de%20dependencias%20y%20mapa%20conceptual%20de%20formas%20normales/README-Tarea-4.1.md) | 📁 [Ver Carpeta 4.1](./Tarea%204.1%20Fundamentos%20de%20dependencias%20y%20mapa%20conceptual%20de%20formas%20normales/) |
+| **Tarea 4.2** | Proceso Paso a Paso de Normalización del Proyecto Aplicado | 📄 [Ver README Tarea 4.2](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad4/Tarea%204.2%20Proceso%20paso%20a%20paso%20de%20normalización%20del%20proyecto%20aplicado/README-Tarea-4.2.md) | 📁 [Ver Carpeta 4.2](./Tarea%204.2%20Proceso%20paso%20a%20paso%20de%20normalizaci%C3%B3n%20del%20proyecto%20aplicado/) |
 
 ---
 
