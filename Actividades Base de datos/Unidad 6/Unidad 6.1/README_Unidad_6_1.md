@@ -14,7 +14,7 @@
 | **Alumno:** | Eduardo Salazar Martínez |
 | **Repositorio GitHub:** | [Eduardo13458 / Tareas-fundamentos-de-base-de-datos-](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-) |
 | **Directorio de la Actividad:** | [`Actividades Base de datos/Unidad 6/Unidad 6.1/`](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.1) |
-| **Video en YouTube:** | `https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.1/Video%20Unidad%206.1.txt` *(Exposición explicando la sintaxis y comportamiento de sentencias LDD y LMD)* |
+| **Video en YouTube:** | [`https://youtu.be/ObF1Zj8Bq6Q`] *(Exposición explicando la sintaxis y comportamiento de sentencias LDD y LMD)* |
 
 ---
 
