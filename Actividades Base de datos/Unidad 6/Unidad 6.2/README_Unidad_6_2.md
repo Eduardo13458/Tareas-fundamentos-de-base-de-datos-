@@ -25,7 +25,7 @@
 
 A continuación se presentan los enlaces locales directos y absolutos verificados a partir de los archivos existentes en tu rama `main` en GitHub (garantizados sin errores 404):
 
-| Archivo | Tipo de Recurso | Enlace Local (Sin 404) | Enlace Completo (GitHub) |
+| Archivo | Tipo de Recurso | Enlace Local  | Enlace Completo (GitHub) |
 | :--- | :--- | :---: | :---: |
 | **`Reporte_Tecnico_SQL_Area_6.2-v2.pdf`** | Reporte Técnico Formal en PDF | [📑 Abrir Reporte PDF](./Reporte_Tecnico_SQL_Area_6.2-v2.pdf) | [Ver en GitHub](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.2/Reporte_Tecnico_SQL_Area_6.2-v2.pdf) |
 | **`Reporte_Tecnico_SQL_Area_6.2-v2.md`** | Reporte Técnico en Markdown | [📄 Abrir Reporte Markdown](./Reporte_Tecnico_SQL_Area_6.2-v2.md) | [Ver en GitHub](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.2/Reporte_Tecnico_SQL_Area_6.2-v2.md) |
