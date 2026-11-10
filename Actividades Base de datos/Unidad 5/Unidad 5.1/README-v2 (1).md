@@ -45,7 +45,7 @@ Este documento funge como índice general, marco explicativo y punto de acceso d
 * **Directorio de la Actividad:** [`📁 Unidad 5.1/`](./Unidad%205.1/)
 * **Reporte Técnico (Markdown):** [`📑 reporte_tarea_5_1_algebra_relacional_v2 (1).md`](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%205/Unidad%205.1/reporte_tarea_5_1_algebra_relacional_v2%20(1).md)
 * **Reporte Técnico (PDF):** [`📑 reporte_tarea_5_1_algebra_relacional_v2.pdf`](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%205/Unidad%205.1/reporte_tarea_5_1_algebra_relacional_v2.pdf)
-* **Video Explicativo:** `[Enlace a YouTube]` *(Video público con webcam en esquina inferior derecha)*
+* **Video Explicativo:** [`Enlace a YouTube`] (https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%205/Unidad%205.1/Video%20Unidad%205.1.txt)
 
 ### 📖 Marco Teórico y Notación Formal
 
