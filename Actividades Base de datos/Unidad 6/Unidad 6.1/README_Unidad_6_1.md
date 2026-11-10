@@ -22,7 +22,7 @@
 
 Los siguientes enlaces conectan directamente con los entregables de la actividad dentro de este directorio en el repositorio (verificados para evitar errores 404):
 
-| Archivo | Tipo | Enlace Relativo Local (Recomendado sin 404) | Enlace Completo (GitHub) |
+| Archivo | Tipo | Enlace Relativo Local  | Enlace Completo (GitHub) |
 | :--- | :---: | :---: | :---: |
 | **`tarea 6.1Sintaxis y Clasificación de Sentencias SQL (LDD y LMD) (1).md`** | Markdown | [📄 Abrir Reporte Markdown](./tarea%206.1Sintaxis%20y%20Clasificaci%C3%B3n%20de%20Sentencias%20SQL%20(LDD%20y%20LMD)%20(1).md) | [Ver en GitHub](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.1/tarea%206.1Sintaxis%20y%20Clasificaci%C3%B3n%20de%20Sentencias%20SQL%20(LDD%20y%20LMD)%20(1).md) |
 | **`tarea 6.1Sintaxis y Clasificación de Sentencias SQL (LDD y LMD).pdf`** | PDF | [📑 Abrir Reporte PDF](./tarea%206.1Sintaxis%20y%20Clasificaci%C3%B3n%20de%20Sentencias%20SQL%20(LDD%20y%20LMD).pdf) | [Ver en GitHub](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/blob/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.1/tarea%206.1Sintaxis%20y%20Clasificaci%C3%B3n%20de%20Sentencias%20SQL%20(LDD%20y%20LMD).pdf) |
