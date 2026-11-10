@@ -17,7 +17,7 @@
 | **Herramienta:** | SQL Server Management Studio (SSMS) / sqlcmd |
 | **Repositorio GitHub:** | [Eduardo13458 / Tareas-fundamentos-de-base-de-datos-](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-) |
 | **Directorio de la Actividad:** | [`Actividades Base de datos/Unidad 6/Unidad 6.2/`](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Unidad%206/Unidad%206.2) |
-| **Video en YouTube:** | `[Inserta aquí tu enlace público de YouTube]` *(Demostración en vivo en SSMS de la ejecución de DDL, carga de datos, consultas analíticas y pruebas de integridad)* |
+| **Video en YouTube:** | `https://youtu.be/78pCNiSdBTQ` *(Demostración en vivo en SSMS de la ejecución de DDL, carga de datos, consultas analíticas y pruebas de integridad)* |
 
 ---
 
