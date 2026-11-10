@@ -14,8 +14,7 @@
 | **Alumno:** | Eduardo Salazar Martínez |
 | **Repositorio GitHub:** | [Eduardo13458 / Tareas-fundamentos-de-base-de-datos-](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-) |
 | **Directorio de la Actividad:** | [`Actividades Base de datos/Unidad 5/Unidad 5.2/`](https://github.com/Eduardo13458/Tareas-fundamentos-de-base-de-datos-/tree/main/Actividades%20Base%20de%20datos/Unidad%205/Unidad%205.2) |
-| **Video en YouTube:** | `[Inserta aquí tu enlace público de YouTube]` *(Video resolviendo y explicando las 3 consultas complejas)* |
-
+| **Video en YouTube:** | `[https://youtu.be/KH9KWQ0N_2Q]` 
 ---
 
 ## 🗂️ 1. Índice de Archivos de la Actividad 5.2
